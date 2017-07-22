@@ -17,7 +17,7 @@
     "doujinshop-meta-search-service": "git+https://github.com/ishiduca/doujinshop-meta-search-service.git"
   },
   "bin": {
-    "meta-alice": "./bin/metasearch"
+    "meta-alice": "./bin/metasearch.js"
   },
   "standard": {
     "ignore": "t/"
